@@ -1,1 +1,4 @@
-# RAG_Pipeline_Proj1
+This is Basic RAG pipeline code
+
+This project has ingestion and retrieval pipeline.
+
